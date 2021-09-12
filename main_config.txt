@@ -1,1 +1,2 @@
 Updated main config
+new feature 2
